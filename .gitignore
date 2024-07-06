@@ -1,0 +1,5 @@
+hrefs.csv
+.env
+__pycache__/
+g2.csv
+docker-compose.yml
